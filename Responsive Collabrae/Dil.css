@@ -1,0 +1,205 @@
+/* Logo section */
+.ab {
+   
+    font-size: 25px !important;
+    width: 149px !important;
+    padding: 0px !important;
+    border: none !important;
+    background-color: rgb(255, 87, 36) !important;
+}
+
+/* Navbar section */
+div#navbarNav {
+    margin: 12px 0px;
+}
+
+/* Background image are used */
+div#A{
+    background-image: url(Image4.jpeg);
+    background-size: cover;
+    height: 81vh;
+}
+.Ele{
+        color: white;
+        font-weight: 500;
+        position: relative;
+        top: 52px;
+    }
+    small.smal {
+        color: white;
+        position: relative;
+        top: 53px;
+        font-size: 18px;
+    }
+    .input-group.mb-5.tc {
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        width: 22%;
+        padding-top: 55px;
+    }
+    /* Background image card */
+
+    @media (max-width:380px) {
+        .container.mb-4.Convert {
+            margin-top: 97px;
+            display: block;
+        }
+        }
+
+        @media only screen and (max-width: 600px) and (min-width: 400px)  {
+            .container.mb-4.Convert {
+                margin-top: 97px;
+                display: block;
+            }
+        }
+    
+   
+
+    .col-md-5.cmm {
+        position: top;
+        position: relative;
+        top: -58px;
+    }
+    .col-md-4.Howto {
+       
+        flex: 0.0 auto;
+        width: 25.333333%;
+    }
+     /* smile women section   */
+     
+
+     .col-md-7.D {
+        background-color: #ff8049;
+    }
+    /* @media (max-width:380px) {
+        .card.cardDD{
+            position: relative;
+            top: -34px;
+            display: block;
+            right: -3px;
+            width: 97%;
+        }
+        } */
+        
+        @media (max-width:380px){
+        .card.cardDD {
+            margin-top: 40px;
+            position: relative !important;
+            left: 21px;
+            width: 87%;
+            position: absolute;
+            /* padding-left: 1px; */
+        }
+    }
+            @media (max-width:380px) {
+                .card.cardD {
+                    margin-top: -68px;
+                    position: relative !important;
+                    left: 21px;
+                    width: 87%;
+                    display: block;
+                }
+                }
+
+
+     @media only screen and (max-width: 600px) and (min-width: 400px)  {
+                .card.cardD {
+                    position: relative;
+                    top: -24px;
+                    right: -8px;
+         }      
+        }  
+        /* card A .row.A.gy-3 {
+} */
+@media (max-width:380px) {
+    .row.A.gy-3 {
+        position: relative !important;
+        margin-top: -1px;
+        width: 90%;
+        left: 38px;
+    }
+}
+
+@media (max-width:380px) and (max-width:768px){
+
+.container.RowB.mt-5 {
+    position: relative !important;
+    margin-top: -1px;
+    width: 87%;
+    left: 12px;
+}
+
+}
+    p.card-text.Great {
+        font-size: 24px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        color: white;
+    }
+    small.text-muted {
+        color: white !important;
+    }
+    .card-body.DD {
+        padding: 52px;
+    }
+
+
+.checked {
+    color: #fff;
+    margin-top: 26px;
+  }
+  /* All plain */
+  p.card-text {
+    color: black;
+}
+h5.card-title {
+    color: black;
+}
+.card-center.bg-warning.text-white.p-2 {
+    background-color: #fe7436 !important;
+}
+input.form-control.redcolor {
+    background-color: red;
+    font-size: 17px;
+    font-weight: 500;
+    /* color: white !important; */
+}
+.container-fluid.mt-5.Discover {
+    background-color: #f6fafa;
+}
+input.form-control.redcolor::placeholder {
+    color: white;
+}
+.card.CREATOR {
+    border-radius: 0px;
+}
+
+.cf{
+    background-color: rgb(76, 189, 189) !important;
+}
+p.Over{
+    font-size: 23px;
+    font-weight: 400;
+
+}
+
+.container.text-center.mt-4.allPlans {
+    background-color: #8c7878;
+}
+.Streamline {
+    padding: 18px 45px;
+    font-size: 17px;
+}
+.Streamline {
+    padding: 18px 45px 0px;
+    font-size: 17px;
+}
+/* Footer */
+.container.mt-4.bg-dark.text-white {
+    background-color: #565454 !important;
+}
+.container-fluid {
+    padding: 0px !important;
+}
